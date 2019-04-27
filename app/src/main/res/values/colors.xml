@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ea5a5a</color>
+    <color name="colorPrimaryDark">#b22531</color>
+    <color name="colorAccent">#ff8c87</color>
+    <color name="selectLocationBackground">#1bb464</color>
+    <color name="textBackgroundColor">#2b2b2b</color>
+    <color name="selectLocationListBackground">#fa8d0f</color>
+
+    <color name="titleBadgeText">#adafb1</color>
+
+
+</resources>

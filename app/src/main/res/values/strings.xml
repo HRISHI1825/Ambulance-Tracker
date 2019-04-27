@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">EMD</string>
+    <string name="onFailure">No Internet Connection!!!  Error:-</string>
+    <string name="onResponse">No Internet Connection!!</string>
+
+
+    <string-array name="allergy">
+        <item>Do you have any allergy</item>
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string-array name="user_type">
+        <item>Select User Type</item>
+        <item>User</item>
+        <item>Ambulance Driver</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="Breathing">
+        <item>Do you have any Breathing Problem</item>
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string-array name="Seri">
+        <item>Emergency</item>
+        <item>Other</item>
+
+    </string-array>
+
+    <string-array name="bGroup">
+        <item>Blood Group</item>
+        <item>O Positive</item>
+        <item>A Positive</item>
+        <item>B Positive</item>
+        <item>AB Positive</item>
+        <item>O Negative</item>
+        <item>A Negative</item>
+        <item>B Negative</item>
+        <item>AB Negative</item>
+    </string-array>
+    <string name="title_activity_ambulance">Map</string>
+    <string name="title_activity_source_desination">Map</string>
+
+</resources>
